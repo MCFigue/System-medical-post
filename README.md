@@ -1,7 +1,8 @@
 
 # Application for the registration of medical records of a clinic
 
-![](https://www.devphage.com/wp-content/uploads/2021/10/cropped-logo_small.png)
+![](https://i.ibb.co/6nTBjDD/1.jpg)
+
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
@@ -67,6 +68,8 @@ All the libraries used are included in the project, therefore, to solve the erro
 **2. RSScaleLabel**
 **3. jcalendar-1.4**
     
+![](https://i.ibb.co/6DDcz2Q/2.jpg)
+
 
 ####MySQL　
 ### Create in PhpMyAdmin
@@ -131,8 +134,10 @@ st->op->cond
 cond(yes)->e
 cond(no)->op
 ```
+![](https://i.ibb.co/XYwmKqq/3.jpg)
+![](https://i.ibb.co/RbhNQMB/5.jpg)
 
-
-
-
+![](https://i.ibb.co/QKRZxwW/6.jpg)
+![](https://i.ibb.co/5cb4sxS/7.jpg)
+![](https://i.ibb.co/LJfhCZJ/8.jpg)
 ###End
